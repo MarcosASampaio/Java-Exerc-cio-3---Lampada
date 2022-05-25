@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    align-items: center;
+}
+
+#ligada{
+    opacity: 1;
+    width: 290px;
+}
+#desligada{
+    opacity: 1;
+    width: 155px;
+    position:absolute;
+    left: 79px;
+    top:33px;
+    /* z-index: -1; */
+}
+
+#ligarDesligar{
+    margin-top:20px
+}
